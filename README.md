@@ -5,4 +5,4 @@
 
 ### Pattenrs
 
-* Singleton
+* [Singleton](./src/creational/singleton/index.ts)
